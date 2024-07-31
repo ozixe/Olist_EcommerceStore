@@ -54,3 +54,8 @@ The Olist Commerce Store dataset is organized into several interconnected tables
 - **Optimize Regional Operations**: Allocate resources and optimize logistics for high-order regions like São Paulo and Rio de Janeiro to improve efficiency.
 - **Improve Payment Options**: Ensure robust support for popular payment methods like credit cards and explore opportunities to promote alternative methods to balance payment processing loads.
 - **Streamline Delivery Processes**: Investigate states with longer delivery times and work on improving logistics to reduce delivery times further. Additionally, maintain the accuracy of delivery estimates to manage customer expectations better.
+
+  ## Dashboard
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/oussama.ziane/viz/OlistE-Commerce_16992851459070/EVOLDWEEKTDAY2). This dashboard allows users to analyze order trends, geographical distribution, payment methods, and delivery performance by filtering data across time periods and regions.
+
+![Dashboard Image](https://github.com/user-attachments/assets/fd8033c0-b273-4c6f-bcc5-68899469cd1e)
