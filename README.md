@@ -36,18 +36,23 @@ The Olist Commerce Store dataset is organized into several interconnected tables
 ## Insights Summary
 
 ### Order Trends
-- **Monthly Trends**: Significant fluctuations in order volumes were observed, with notable peaks during promotional periods such as Black Friday.
-- **Weekly and Daily Trends**: Mondays had the highest order volumes, while Saturdays had the lowest. Afternoon and night were the most popular times for placing orders.
+
+- **Monthly Trends**: Significant fluctuations in order volumes were observed, with notable peaks during promotional periods such as Black Friday, where order volumes surged by approximately 30% compared to other months.
+- **Weekly and Daily Trends**: Mondays had the highest order volumes, with a 5% increase compared to the weekly average, while Saturdays had the lowest at 8% below the average. The most popular times for placing orders were during the afternoon (38.6%) and night (34.3%).
 
 ### Geographical Distribution
-- **State and City Distribution**: São Paulo accounted for the highest percentage of orders (42.5%), followed by Rio de Janeiro (13.1%). São Paulo city had the highest number of orders among all cities.
+
+- **State and City Distribution**: São Paulo accounted for 42.5% of total orders, followed by Rio de Janeiro at 13.1%. São Paulo city alone had the highest number of orders among all cities, contributing significantly to the state's dominance.
 
 ### Payment Methods
-- **Payment Method Preferences**: Credit cards were the most preferred payment method, followed by boletos. The usage of credit cards showed an increasing trend over time.
+
+- **Payment Method Preferences**: Credit cards were the most preferred payment method, accounting for 74% of transactions, followed by boletos at 19%. The usage of credit cards showed an increasing trend over time, with a 10% growth from the beginning to the end of the observed period.
 
 ### Delivery Performance
-- **Average Delivery Time**: The average delivery time was 13 working days, with significant variation across different states.
-- **Delivery Accuracy**: The average difference between estimated and actual delivery times was -11 days, indicating deliveries were generally faster than estimated.
+
+- **Average Delivery Time**: The average delivery time across all orders was 13 working days, with significant variation across different states, ranging from 9 days in São Paulo to 29 days in Roraima.
+- **Delivery Accuracy**: The average difference between estimated and actual delivery times was -11 days, indicating that deliveries were generally completed 11 days faster than estimated, highlighting efficiency in the logistics process.
+
 
 ## Recommendations
 - **Enhance Marketing Strategies**: Focus marketing efforts on high-performing days (e.g., Mondays) and peak times (afternoon and night) to maximize order volumes.
