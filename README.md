@@ -17,7 +17,6 @@ To achieve these goals, the following key questions were addressed:
 The Olist Commerce Store dataset is organized into several interconnected tables as shown in the following diagram:
 
 ![Dataset Structure](https://github.com/user-attachments/assets/6257c643-91b0-49ee-a75e-c5e52339d33a)
-<img src="https://github.com/user-attachments/assets/6257c643-91b0-49ee-a75e-c5e52339d33a"  width="700"/>
 
 ## Business Relevant Metrics & Dimensions
 
