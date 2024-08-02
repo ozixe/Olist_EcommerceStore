@@ -64,3 +64,10 @@ The Olist Commerce Store dataset is organized into several interconnected tables
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/oussama.ziane/viz/OlistE-Commerce_16992851459070/EVOLDWEEKTDAY2). This dashboard allows users to analyze order trends, geographical distribution, payment methods, and delivery performance by filtering data across time periods and regions.
 
 ![Dashboard Image](https://github.com/user-attachments/assets/fd8033c0-b273-4c6f-bcc5-68899469cd1e)
+
+## Presentation Sample
+The presentation created for the marketing team walks through the insights and recommendations above and can be [here](https://docs.google.com/presentation/d/1smWgj0XAqg6RQ4AzOwk7oV8bHsr5yL2v22Sqd-ashao/edit?usp=sharing). Some extracts are presented below for easy viewing.
+
+![Dashboard Image](https://github.com/user-attachments/assets/6f393603-d28d-4237-8519-0998786ec110)
+![Dashboard Image](https://github.com/user-attachments/assets/956f7f6b-dcd2-4231-bae7-19e83c817f5a)
+
